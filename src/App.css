@@ -1,0 +1,22 @@
+.bg-dark-i {
+ 
+  background-color: #176B87;
+}
+.bg-font{
+  /* color: #AA1945;
+   */
+   color: #176B87;
+}
+.bg-font-i{
+  color: #176B87;
+}
+.bg-border{
+  border: 1px solid #176B87;
+}
+.btn_i:hover{
+  background-color: #176B87;
+  color: #ffffff;
+}
+.nav-font{
+  color: white;
+}
